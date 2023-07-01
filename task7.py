@@ -1,3 +1,4 @@
+
 def count_letters(text):
   # Initialize a new dictionary.
   dictionary = {} 
