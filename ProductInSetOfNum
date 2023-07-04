@@ -17,5 +17,5 @@ for i in range(len(list)):
                 b=(list[i],list[j])                
                 if((a not in l) and (b not in l)):
                     l.append((list[i],list[j]))
-                                  
+                                    
 print("\nPairs of Number results of Product is :",l)
