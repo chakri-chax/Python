@@ -20,3 +20,4 @@ for i in range(len(list)):
                     l.append((list[i],list[j]))
                                     
 print("\nPairs of Number results of Product is :",l)
+  
