@@ -8,7 +8,7 @@ def count_letters(text):
     # Complete the if-statement using a string method to check if the
     # character is a letter.
     key = text[i]
-    if key == str:
+    if key == str: 
 
       # Complete the if-statement using a logical operator to check if 
       # the letter is not already in the dictionary.
@@ -18,6 +18,7 @@ def count_letters(text):
            _  
       # Use a dictionary operation to increment the letter count value 
       # for the existing key.
+      
       _  
       _ # Increment the letter counter. 
   return dictionary
