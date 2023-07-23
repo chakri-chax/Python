@@ -27,6 +27,7 @@
 # print(result)
 
 text = "hello2"
+text2 = "" 
 for i in range(len(text)):
     key = text[i]
     if type(key) != str:
