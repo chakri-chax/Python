@@ -2,6 +2,7 @@
 def count_letters(text):
   # Initialize a new dictionary.
   dictionary = {} 
+  
   # Complete the for loop to iterate through each "text" character and 
   # use a string method to ensure all letters are lowercase.
   for i in range(len(text)):   
