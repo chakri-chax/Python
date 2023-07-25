@@ -5,7 +5,8 @@ def count_letters(text):
   
   # Complete the for loop to iterate through each "text" character and 
   # use a string method to ensure all letters are lowercase.
-  for i in range(len(text)):   
+  for i in range(len(text)):  
+    
     # Complete the if-statement using a string method to check if the
     # character is a letter.
     key = text[i]
