@@ -5,6 +5,7 @@ for i in range(limit):
     print(" Enter Num ",i+1,":")
     num = int(input(">>>"))
     list.append(num)
+
 l = []
 prod = int(input("Enter product :"))
 for i in range(len(list)):
