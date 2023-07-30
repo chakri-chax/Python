@@ -7,6 +7,7 @@ O#Dont modify
 # # list1 = ["Jacomo", "Emma", "Uli", "Nia", "Imani"]
 # # list2 = ["Loik", "Gabriel", "Ahmed", "Soraya"]
 # # new_list = list1+list2 # Initialize a new list.
+
 # # combine_list = new_list# Combine the lists.
 # # combine_list.sort() # Sort the combined lists.
 # # new_list = combine_list  # Assign the combined lists to the "new_list".
