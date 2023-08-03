@@ -5,6 +5,7 @@ O#Dont modify
 # # # Imanis_list = ["Loik", "Gabriel", "Ahmed", "Soraya"]
 # # # print(Aniyahs_list + Imanis_list)
 # # list1 = ["Jacomo", "Emma", "Uli", "Nia", "Imani"]
+
 # # list2 = ["Loik", "Gabriel", "Ahmed", "Soraya"]
 
 # # new_list = list1+list2 # Initialize a new list.
