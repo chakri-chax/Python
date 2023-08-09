@@ -17,6 +17,7 @@ HO#Dont modify
 # # combine_list.sort() # Sort the combined lists.
 
 # # new_list = combine_list  # Assign the combined lists to the "new_list".
+
 # # print(new_list)
  
 # # # # Python program to sort a list of strings
@@ -31,6 +32,7 @@ HO#Dont modify
 # # # print(lst)
 
 # # A Kia Soul costs 19000 dollars
+
 # kia = "Hello"
 
 # price = 19000
