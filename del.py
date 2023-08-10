@@ -1,6 +1,6 @@
 HO#Dont modify 
 
-# # # Aniyahs_list = ["Jacomo", "Emma", "Uli", "Nia", "Imani"]
+#  # # Aniyahs_list = ["Jacomo", "Emma", "Uli", "Nia", "Imani"]
 
 # # # Imanis_list = ["Loik", "Gabriel", "Ahmed", "Soraya"]
 
@@ -40,7 +40,7 @@ HO#Dont modify
 # result = "A "+ kia +" costs " +str(price) +" dollars"
 
 # print(result)
-
+#august 10
 text = "hello2"
 text2 = "" 
 for i in range(len(text)):
