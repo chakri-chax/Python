@@ -22,6 +22,7 @@ HiHHO#Dont modify
 #Aug 30
 #Aug 31
 #sept 1
+#sept 2
 #  # # Aniyahs_list = ["Jacomo", "Emma", "Uli", "Nia", "Imani"]
 
 # # # Imanis_list = ["Loik", "Gabriel", "Ahmed", "Soraya"]
