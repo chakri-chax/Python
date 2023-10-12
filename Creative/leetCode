@@ -1,0 +1,24 @@
+
+
+var maxProfit = function(prices) {
+let arr  = prices
+list = []
+for(i=0;i< arr.length;i++){
+    for(j=1;j<arr.length-i;j++){
+        if(arr[i] < arr[i+j]){
+           let k = arr[i+j] -arr[i]
+           list.push(k)
+        }
+    }
+} 
+
+    return (Math.max(...list)
+    
+
+
+
+
+   
+};
+console.log(maxProfit([7,6,4,3,1]
+))
